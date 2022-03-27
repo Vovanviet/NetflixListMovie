@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Ke trom mat trang",
+    "category": "Khoa hoc/Hai huoc/Vien tuong/Tre em",
+    "actor": "Steve Carell",
+    "language": "English|Russia|Japan",
+    "publishingYear": 2016,
+    "publishCompany":"UniversalPictures",
+    "time": 95
+  },
+  {
+    "id": 2,
+    "title": "Kungfu",
+    "category": "Vo thuat/Hai huoc/Vien tuong/Tinh yeu",
+    "actor": "Steven Chou",
+    "language": "English|China|Japan",
+    "publishingYear": 2008,
+    "publishCompany":"UniversalPictures",
+    "time": 158
+  },
+  {
+    "id": 3,
+    "title": "One Piece",
+    "category": "Hoat hinh/Hai huoc/Tre em",
+    "actor": "Oda",
+    "language": "English|VietNam|Japan",
+    "publishingYear": 1999,
+    "publishCompany":"Animator",
+    "time": 24
+  },
+  {
+    "id": 4,
+    "title": "Em chua 18",
+    "category": "Tinh yeu/Hai huoc/Lang man/Teen",
+    "actor": "Karty Nguyen",
+    "language": "VietNam|English|Japan",
+    "publishingYear": 2016,
+    "publishCompany":"NhaMatPhoBoLamTo",
+    "time": 137
+  }
+]
